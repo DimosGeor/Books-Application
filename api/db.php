@@ -5,8 +5,8 @@
 
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'bookapp');
-define('DB_USER', 'books');   
-define('DB_PASS', '3sd!D@t@');       
+define('DB_USER', '---');   
+define('DB_PASS', '---');       
 define('DB_CHAR', 'utf8mb4');
 
 function db(): PDO {
